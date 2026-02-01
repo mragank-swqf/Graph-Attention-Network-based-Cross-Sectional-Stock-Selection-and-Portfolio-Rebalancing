@@ -110,7 +110,9 @@ These results indicate that modeling cross-asset relationships using graph-based
 
 ## Project Structure 🗂️
 ├── notebook.ipynb # Main Jupyter notebook (data prep, modeling, evaluation)
+
 ├── README.md # Project documentation
+
 ├── .gitignore # Git ignore rules
 
 
